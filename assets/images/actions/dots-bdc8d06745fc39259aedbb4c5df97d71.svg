@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_1680" data-name="Group 1680" transform="translate(-1200.215 -4.215)">
+    <path id="ic_more_horiz_24px" d="M4.943,10a.943.943,0,1,0,.943.943A.946.946,0,0,0,4.943,10ZM10.6,10a.943.943,0,1,0,.943.943A.946.946,0,0,0,10.6,10ZM7.772,10a.943.943,0,1,0,.943.943A.946.946,0,0,0,7.772,10Z" transform="translate(1202.442 3.272)"/>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(1200.215 4.215)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="20" height="20" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="3.5" fill="none"/>
+    </g>
+  </g>
+</svg>

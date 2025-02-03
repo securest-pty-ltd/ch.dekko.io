@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.303" height="67.303" viewBox="0 0 67.303 67.303">
+    <defs>
+        <style>
+            .cls-1{fill:#4caf50}.cls-2{fill:#ffc107}
+        </style>
+    </defs>
+    <g transform="translate(-4 -4)">
+        <path d="M71.3 37.651A33.651 33.651 0 1 1 37.651 4 33.655 33.655 0 0 1 71.3 37.651z" class="cls-1" data-name="Path 3396"/>
+        <path d="M24.575 4v33.651l13.461 6.73L23.157 71.3h1.418a33.651 33.651 0 0 0 0-67.3z" class="cls-2" data-name="Path 3397" transform="translate(13.076)"/>
+        <path d="M71.3 37.651A33.651 33.651 0 1 1 37.651 4 33.655 33.655 0 0 1 71.3 37.651z" class="cls-1" data-name="Path 3398"/>
+        <path d="M24.575 4v33.651l13.461 6.73L23.157 71.3h1.418a33.651 33.651 0 0 0 0-67.3z" class="cls-2" data-name="Path 3399" transform="translate(13.076)"/>
+        <path fill="#f44336" d="M65.525 22.508H35.508v21.874L30.46 42.7 7.174 19.581H7.14a33.6 33.6 0 0 1 58.385 2.928z" data-name="Path 3400" transform="translate(2.143)"/>
+        <path fill="#dd2c00" d="M7.158 13.264L22.037 38.27l8.411-1.895z" data-name="Path 3401" transform="translate(2.156 6.323)"/>
+        <path fill="#558b2f" d="M23.157 56.969l15.032-27.02L31.306 25z" data-name="Path 3402" transform="translate(13.076 14.334)"/>
+        <path fill="#f9a825" d="M55.137 15H25.078l-2.657 7.706z" data-name="Path 3403" transform="translate(12.574 7.508)"/>
+        <path fill="#fff" d="M45.286 30.143A15.143 15.143 0 1 1 30.143 15a15.146 15.146 0 0 1 15.143 15.143z" data-name="Path 3404" transform="translate(7.508 7.508)"/>
+        <path fill="#2196f3" d="M40.556 28.778A11.778 11.778 0 1 1 28.778 17a11.776 11.776 0 0 1 11.778 11.778z" data-name="Path 3405" transform="translate(8.873 8.873)"/>
+    </g>
+</svg>

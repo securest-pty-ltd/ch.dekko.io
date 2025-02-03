@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="arrow_right_alt_black_24dp_1_" data-name="arrow_right_alt_black_24dp (1)" transform="translate(17) rotate(90)">
+    <path id="Path_3509" data-name="Path 3509" class="cls-1" d="M0,0H17V17H0Z"/>
+    <path id="Path_3510" data-name="Path 3510" d="M12.507,10.329h-7.8a.708.708,0,1,0,0,1.417h7.8v1.268a.351.351,0,0,0,.6.248l1.969-1.976a.364.364,0,0,0,0-.5L13.109,8.806a.352.352,0,0,0-.6.248Z" transform="translate(-1.167 -2.538)"/>
+  </g>
+</svg>

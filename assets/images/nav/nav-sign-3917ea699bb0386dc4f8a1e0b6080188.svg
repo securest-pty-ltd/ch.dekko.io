@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+    <g data-name="Layer 2"><g data-name="Layer 1"><g data-name="Group 2732"><g data-name="Ellipse 158">
+      <circle cx="12.5" cy="12.5" r="12.5"/>
+      <circle stroke="#fff" cx="12.5" cy="12.5" r="12"/></g>
+      <g data-name="Ellipse 159">
+        <circle fill="#fff" cx="12.5" cy="12.5" r="7.5"/>
+        <circle fill="#fff" cx="12.5" cy="12.5" r="7"/></g>
+        <line data-name="Line 245" stroke="#000" stroke-linecap="round" x1="15.5" y1="9.5" x2="11.5" y2="15.5"/>
+        <line data-name="Line 246" stroke="#000" stroke-linecap="round" x1="11.5" y1="15.5" x2="9.5" y2="13.5"/></g></g>
+      </g>
+    </svg>

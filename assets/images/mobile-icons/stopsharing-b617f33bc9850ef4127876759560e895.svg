@@ -1,0 +1,16 @@
+<svg id="cancel_black_24dp" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        opacity: 0.87;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <path id="Path_54" data-name="Path 54" class="cls-1" d="M0,0H22V22H0Z"/>
+  <path id="Path_55" data-name="Path 55" class="cls-2" d="M11,2a9,9,0,1,0,9,9A8.992,8.992,0,0,0,11,2Zm3.87,12.87a.9.9,0,0,1-1.269,0l-2.6-2.6-2.6,2.6A.9.9,0,0,1,7.13,13.6l2.6-2.6L7.13,8.4A.9.9,0,0,1,8.4,7.13l2.6,2.6,2.6-2.6A.9.9,0,0,1,14.87,8.4l-2.6,2.6,2.6,2.6a.913.913,0,0,1,0,1.269Z"/>
+</svg>

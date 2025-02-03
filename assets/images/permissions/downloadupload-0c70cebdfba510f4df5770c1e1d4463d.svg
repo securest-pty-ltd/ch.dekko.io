@@ -1,0 +1,11 @@
+<svg id="import_export_black_24dp" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Path_3511" data-name="Path 3511" class="cls-1" d="M0,0H17V17H0Z"/>
+  <path id="Path_3512" data-name="Path 3512" d="M7.792,3.308,5.816,5.285a.351.351,0,0,0,.248.6H7.332v4.257a.708.708,0,0,0,1.417,0V5.887h1.268a.351.351,0,0,0,.248-.6L8.288,3.308a.355.355,0,0,0-.5,0ZM13,12.984V8.727a.708.708,0,0,0-1.417,0v4.257H10.314a.351.351,0,0,0-.248.6l1.976,1.969a.364.364,0,0,0,.5,0l1.976-1.969a.352.352,0,0,0-.248-.6Z" transform="translate(-1.665 -0.936)"/>
+</svg>

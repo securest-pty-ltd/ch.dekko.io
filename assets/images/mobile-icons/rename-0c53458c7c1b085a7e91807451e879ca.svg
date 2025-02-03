@@ -1,0 +1,23 @@
+<svg id="drive_file_rename_outline_black_24dp_1_" data-name="drive_file_rename_outline_black_24dp (1)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="Group_2884" data-name="Group 2884">
+    <rect id="Rectangle_486" data-name="Rectangle 486" class="cls-1" width="24" height="24"/>
+  </g>
+  <g id="Group_2886" data-name="Group 2886">
+    <g id="Group_2885" data-name="Group 2885">
+      <path id="Path_51" data-name="Path 51" class="cls-2" d="M15,16l-4,4h8a2.006,2.006,0,0,0,2-2h0a2.006,2.006,0,0,0-2-2Z"/>
+      <path id="Path_52" data-name="Path 52" class="cls-2" d="M12.06,7.19,3.29,15.96a1.009,1.009,0,0,0-.29.7V19a1,1,0,0,0,1,1H6.34a1.033,1.033,0,0,0,.71-.29l8.77-8.77Z"/>
+      <path id="Path_53" data-name="Path 53" class="cls-2" d="M18.71,8.04a1,1,0,0,0,0-1.41L16.37,4.29a1,1,0,0,0-1.41,0L13.13,6.12l3.75,3.75Z"/>
+    </g>
+  </g>
+</svg>

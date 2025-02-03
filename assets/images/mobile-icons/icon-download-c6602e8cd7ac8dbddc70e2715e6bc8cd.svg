@@ -1,0 +1,19 @@
+<svg id="download-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="Group_2849" data-name="Group 2849">
+    <rect id="Rectangle_459" data-name="Rectangle 459" class="cls-1" width="24" height="24"/>
+  </g>
+  <g id="Group_2850" data-name="Group 2850">
+    <path id="Path_29" data-name="Path 29" class="cls-2" d="M5,20H19V18H5ZM19,9H15V3H9V9H5l7,7Z"/>
+  </g>
+</svg>

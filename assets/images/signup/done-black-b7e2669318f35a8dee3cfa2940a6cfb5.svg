@@ -1,0 +1,6 @@
+<svg  xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+  </defs>
+  <path fill="none" d="M0,0H20V20H0Z"/>
+  <path fill="#ea5d32" d="M8.135,14.5,5.218,11.585a.825.825,0,1,0-1.167,1.167l3.492,3.492a.83.83,0,0,0,1.175,0l8.833-8.825a.825.825,0,0,0-1.167-1.167Z" transform="translate(-0.635 -1.001)"/>
+</svg>

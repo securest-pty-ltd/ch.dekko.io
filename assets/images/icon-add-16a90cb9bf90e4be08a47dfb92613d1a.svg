@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="plus" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#4e4e4e}.cls-1{stroke:#4e4e4e}
+        </style>
+    </defs>
+    <path id="Path_587" d="M67.2 57.655a9.547 9.547 0 1 0 9.548 9.545 9.558 9.558 0 0 0-9.548-9.545zm1.382 14.411a1.382 1.382 0 0 1-2.764 0v-3.482h-3.481a1.382 1.382 0 1 1 0-2.764h3.482v-3.483a1.382 1.382 0 1 1 2.764 0v3.483h3.482a1.382 1.382 0 1 1 0 2.764h-3.482z" class="cls-1" data-name="Path 587" transform="translate(-51.201 -51.202)"/>
+    <path id="Path_588" d="M16 32a15.92 15.92 0 0 0 5.608-1.015 4.865 4.865 0 0 1-1.336-2.471 13.24 13.24 0 1 1 6.855-5.378 4.9 4.9 0 0 1 2.083 1.881A16 16 0 1 0 16 32z" class="cls-2" data-name="Path 588" transform="translate(0 -.001)"/>
+    <ellipse id="Ellipse_101" cx="2.668" cy="2.668" class="cls-2" data-name="Ellipse 101" rx="2.668" ry="2.668" transform="translate(22.324 24.835)"/>
+</svg>

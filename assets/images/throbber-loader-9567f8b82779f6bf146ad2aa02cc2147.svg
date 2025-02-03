@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="60px" height="30px" viewBox="0 0 52 30" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+  <rect x="0" y="0" width="12" height="20" fill="#dde2e7">
+    <animate attributeName="opacity" attributeType="XML" values="1; .4; 1" begin="0s;op.end+3s" dur="1.5s" repeatCount="indefinite" />
+  </rect>
+  <rect x="20" y="0" width="12" height="20" fill="#dde2e7">
+    <animate attributeName="opacity" attributeType="XML" values="1; .4; 1" begin="0.5s;op.end+3s" dur="1.5s" repeatCount="indefinite" />
+  </rect>
+  <rect x="40" y="0" width="12" height="20" fill="#dde2e7">
+    <animate attributeName="opacity" attributeType="XML" values="1; .4; 1" begin="1s;op.end+3s" dur="1.5s" repeatCount="indefinite" />
+  </rect>
+</svg>

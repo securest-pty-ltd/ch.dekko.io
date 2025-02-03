@@ -1,0 +1,11 @@
+<svg id="Component_38_7" data-name="Component 38 – 7" xmlns="http://www.w3.org/2000/svg" width="37.999" height="40" viewBox="0 0 37.999 40">
+  <path id="Path_3232" data-name="Path 3232" d="M0,0H24V14H0Z" transform="translate(1 15)" fill="#989322"/>
+  <g id="doc" transform="translate(0)">
+    <g id="Group_1470" data-name="Group 1470" transform="translate(0)">
+      <g id="Group_1469" data-name="Group 1469">
+        <path id="Path_186" data-name="Path 186" d="M52.551,10.825,42.278.236A.779.779,0,0,0,41.719,0H26.407A3.1,3.1,0,0,0,23.3,3.081V13.846H17.094a2.318,2.318,0,0,0-2.325,2.306V27.694A2.318,2.318,0,0,0,17.094,30H23.3v6.924A3.1,3.1,0,0,0,26.407,40H49.66a3.1,3.1,0,0,0,3.108-3.074V11.358A.766.766,0,0,0,52.551,10.825ZM41.911,2.077l8.434,8.693H41.911ZM17.094,28.462a.771.771,0,0,1-.774-.767V16.152a.772.772,0,0,1,.774-.767H38.035a.772.772,0,0,1,.774.767V27.694a.772.772,0,0,1-.774.767Zm34.123,8.464a1.548,1.548,0,0,1-1.557,1.536H26.407a1.549,1.549,0,0,1-1.557-1.537V30H38.035a2.318,2.318,0,0,0,2.325-2.306V16.152a2.318,2.318,0,0,0-2.325-2.306H24.85V3.081a1.552,1.552,0,0,1,1.557-1.543H40.36v10a.772.772,0,0,0,.775.769H51.217V36.926Z" transform="translate(-14.769)"/>
+      </g>
+    </g>
+    <text id="ZIP" transform="translate(13 25)" fill="#fff" font-size="9.5" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700" letter-spacing="0.024em"><tspan x="-7.876" y="0">ZIP</tspan></text>
+  </g>
+</svg>

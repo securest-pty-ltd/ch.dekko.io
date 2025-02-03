@@ -1,0 +1,19 @@
+<svg id="drive_file_move_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="Group_2893" data-name="Group 2893">
+    <rect id="Rectangle_489" data-name="Rectangle 489" class="cls-1" width="24" height="24"/>
+  </g>
+  <g id="Group_2894" data-name="Group 2894">
+    <path id="Path_66" data-name="Path 66" class="cls-2" d="M20,6H12L10.59,4.59A2.006,2.006,0,0,0,9.17,4H4A2.006,2.006,0,0,0,2,6V18a2.006,2.006,0,0,0,2,2H20a2.006,2.006,0,0,0,2-2V8A2.006,2.006,0,0,0,20,6Zm-8,9.79V14H9a1,1,0,0,1-1-1H8a1,1,0,0,1,1-1h3V10.21a.5.5,0,0,1,.85-.35l2.79,2.79a.5.5,0,0,1,0,.71l-2.79,2.79A.5.5,0,0,1,12,15.79Z"/>
+  </g>
+</svg>
